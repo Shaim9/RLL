@@ -82,12 +82,26 @@ This section outlines the practical steps followed by the robot to implement the
 6. Better robustness to environmental changes (Noise Robustness):
    The model's performance remained stable despite changes and randomness in the environment, unlike traditional DQL which was more affected.
 
-| Attempt | #1    | #2    |
-| :---:   | :---: | :---: |
-| first | https://github.com/user-attachments/assets/8039f091-b8a5-4dd4-94ba-2dfa845f6ea8 | https://github.com/user-attachments/assets/59bd245a-7755-42a0-83e7-83358c4a6baa |
-| Seconds |  https://github.com/user-attachments/assets/39970be2-1167-48f7-9297-94c3a38805ec |  https://github.com/user-attachments/assets/12288d06-9cad-4800-9239-f17e055fd561 |
-| third |  https://github.com/user-attachments/assets/2c71032a-ab37-4eab-9b8e-4a8ace049fe8 |  https://github.com/user-attachments/assets/bb40eb90-2b03-4e78-b9f0-7d1d1538ab31 |
-| fourth |  https://github.com/user-attachments/assets/958abacc-aaea-42e8-9952-29d829eda269 | https://github.com/user-attachments/assets/407c360f-db18-4997-9fcd-9dd224d3ced1 |
+## DQL algorithm:
+### test for 100 steps:
+https://github.com/user-attachments/assets/8039f091-b8a5-4dd4-94ba-2dfa845f6ea8
+### test for 200 steps:
+https://github.com/user-attachments/assets/39970be2-1167-48f7-9297-94c3a38805ec
+### test for 300 steps:
+https://github.com/user-attachments/assets/2c71032a-ab37-4eab-9b8e-4a8ace049fe8
+### test for 400 steps:
+https://github.com/user-attachments/assets/958abacc-aaea-42e8-9952-29d829eda269
+
+## DQL-GA algorithm:
+### test for 100 steps:
+https://github.com/user-attachments/assets/59bd245a-7755-42a0-83e7-83358c4a6baa
+### test for 200 steps:
+https://github.com/user-attachments/assets/12288d06-9cad-4800-9239-f17e055fd561
+### test for 300 steps:
+https://github.com/user-attachments/assets/bb40eb90-2b03-4e78-b9f0-7d1d1538ab31
+### test for 400 steps:
+https://github.com/user-attachments/assets/407c360f-db18-4997-9fcd-9dd224d3ced1
+
 
 # Future Work:
 To further improve the smart robot's performance and system development, the following points can be implemented:
